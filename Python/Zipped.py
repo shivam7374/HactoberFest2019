@@ -5,3 +5,4 @@ for i in range(x):
 #print (s)
 for i in zip(*s): 
     print( sum(i)/len(i) )
+
